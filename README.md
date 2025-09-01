@@ -1,2 +1,5 @@
 # Student-Registration-Form-DBMS
 This is an updated version of my previous project that i did in OOP course. This time we connected the previous project  with database for DBMS course and this project can successfully perform CRUD operations. And, As this is a group project Mr. Tanwim Ahmed Chowdhury Nafi is with me to complete this project.
+
+
+We, Myself Arjun Das Shaishab and my teammate Tanwim Ahmed Chowdhury were assigned a project for our DBMS course. And as per instruction of our honorable faculty Ms. Samia Rahman Rima, we had to create a project with database connection that can perform CRUD operations that means CREATE, READ, UPDATE, DELETE. And to do that we first had to create an user interface and we did that with java swing, basically it was one of previous projects which built during my OOP course and now we just integrated the database connection with that. And we successfully done that using some technology like JDBC connector, and MySQL. we used platform like Eclipse and XAMPP. Feel free to check the code and all the resourses. Thank you.
